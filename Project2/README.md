@@ -1,6 +1,3 @@
-Adnan Abdullah Kazi
-Umar Marikar
-
 # Program Description: 
 - The purpose of the program is to simulate a resource management system for interconnected rocket components. Each component consumes resources to produce new resources, and the system manages   the flow and balance of these resources by adjusting production rates to prevent overproduction or shortages.
 
